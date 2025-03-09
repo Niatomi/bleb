@@ -1,0 +1,48 @@
+{
+  "result": [
+    {
+      "message": "Hello, Lonnie! Your order number is: #80",
+      "phoneNumber": "476-784-7124 x28560",
+      "phoneVariation": "+90 343 555 10 94",
+      "status": "active",
+      "name": {
+        "first": "Jasen",
+        "middle": "Austin",
+        "last": "Legros"
+      },
+      "username": "Jasen-Legros",
+      "password": "IZ_kNMVMAX11a6C",
+      "emails": [
+        "Amber.Treutel@gmail.com",
+        "Milford_Heller@example.com"
+      ],
+      "location": {
+        "street": "48971 Paolo Greens",
+        "city": "Schmittview",
+        "state": "Nebraska",
+        "country": "New Zealand",
+        "zip": "23739",
+        "coordinates": {
+          "latitude": "22.6819",
+          "longitude": "-135.7787"
+        }
+      },
+      "website": "https://radiant-tattler.name",
+      "domain": "idle-tusk.name",
+      "job": {
+        "title": "Direct Directives Associate",
+        "descriptor": "Chief",
+        "area": "Group",
+        "type": "Agent",
+        "company": "Langosh and Sons"
+      },
+      "creditCard": {
+        "number": "50205030770348578028",
+        "cvv": "537",
+        "issuer": "diners_club"
+      },
+      "uuid": "2f391096-5cfb-4570-a2ff-24d0ce240cc9",
+      "objectId": "67cda30fb6049ed6f212ab26"
+    }
+  ]
+}
