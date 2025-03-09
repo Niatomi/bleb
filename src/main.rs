@@ -54,12 +54,6 @@ fn parse_io(args: Args) {
             }
         }
     }
-
-    // match parsing_type {
-    //     ParsingType::Curly => handle_curled(args.nested_recursion, cuts, occurs),
-    //     ParsingType::Headed => handle_headed(cuts, occurs),
-    //     ParsingType::Uknown => handle_unknown(occurs)
-    // }
 }
 
 struct Args {
